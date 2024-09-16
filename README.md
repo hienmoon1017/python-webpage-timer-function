@@ -30,7 +30,7 @@ while sec >= 0:
     sleep(1)  
 ```
 ### Result:
-![image](https://github.com/user-attachments/assets/19ae70ea-6a91-4e3f-bcf1-b0040df5766f)
+![image](https://github.com/user-attachments/assets/c422c6f8-4cc2-4f64-93fe-cfedc73f3344)
 
 Thank you for stopping by, and I'm pleased to connect with you, my new friend!
 
